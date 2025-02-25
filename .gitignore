@@ -57,3 +57,5 @@ build/
 dist/
 *.log
 *.lock
+
+!build/web/
